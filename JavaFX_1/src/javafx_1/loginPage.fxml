@@ -36,7 +36,7 @@
                         <Text styleClass="tagline-text" text="Your trusted partner in medical care" wrappingWidth="250" />
 
                         <!-- Short note -->
-                        <Text styleClass="info-text" text="Secure login to manage patient records, schedules, and healthcare services efficiently." wrappingWidth="250" />
+                        <Text styleClass="info-text" text="Secure login to manage student records, schedules, and healthcare services efficiently." wrappingWidth="250" />
                      </children>
                   </VBox>
                </children>
